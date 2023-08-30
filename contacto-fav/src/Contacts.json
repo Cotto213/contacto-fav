@@ -1,0 +1,23 @@
+ [
+    {
+        "id" : 1,
+        "nombre": "Jaime",
+        "apellido":"Reyes",
+        "numero":"2332-2112",
+        "esFav": false
+
+    }, {
+     "id" : 2,
+        "nombre": "Karla",
+        "apellido":"Kamacho",
+        "numero":"2443-4543",
+     "esFav": false
+    },{
+     "id" : 3,
+        "nombre": "Carlos",
+        "apellido":"Villagran",
+        "numero":"22-125-054",
+     "esFav": false
+    }
+]
+
