@@ -28,3 +28,4 @@ npm start
 2. Abre tu navegador web y visita [http://localhost:3000](http://localhost:3000).
 Deberías ver la aplicación de prueba de React en funcionamiento.
 
+##Proyecto realizado por: Alfonso Antonio Fernández Cotto FC200910 Y Rafael Alejandro Duque Abrego DA202312
