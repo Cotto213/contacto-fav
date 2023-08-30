@@ -1,4 +1,4 @@
-# contacto-fav: Caso de estudio realizado con React
+# contacto-fav: Desafío práctico realizado con React y Tailwind
 Bienvenido a Contactos Favoritos, una aplicación web que te permite ingresar contactos de celular con el nombre, apellido y su número de telefono. Asi mismo te permite agregarlos a la lista de Contactos Favoritos. Puedes eliminar contactos de tus favoritos y eliminar contactos en general.
 ## Requisitos Previos
 Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema. Puedes
