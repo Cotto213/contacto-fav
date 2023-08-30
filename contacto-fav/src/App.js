@@ -108,10 +108,10 @@ function App() {
                             onChange={handleNumero}
                         />
                     </div>
-                    <div className="mt-[30px] mx-2 items-center justify-center">
+                    <div className="mt-[30px]  items-center  justify-center">
                         <button
                             type="button"
-                            className="my-5 hover:bg-green-950 bg-green-600 w-[150px] h-[30px] content-end rounded-lg font-bold text-white"
+                            className="my-5 hover:bg-green-950 bg-green-600 w-[150px] h-[30px]  rounded-lg font-bold text-white"
                             onClick={handleClick}
                         >
                             Agregar contacto
